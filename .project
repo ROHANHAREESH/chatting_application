@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>chattingapp</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/chatting/application/icons/4.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Rohan/Documents/chatting app/chatting-application/Chatting Application/src/chatting/application/icons/4.jpg</location>
+		</link>
+		<link>
+			<name>src/chatting/application/icons/5.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Rohan/Documents/chatting app/chatting-application/Chatting Application/src/chatting/application/icons/5.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
